@@ -2,4 +2,6 @@
 
 > Espectador - Ciência da Computação PUC MG
 
-[github](https://github.com/Diogo-Miranda)
+Muito bom o workshop! Parabéns
+
+Meu GitHub : [github](https://github.com/Diogo-Miranda)
